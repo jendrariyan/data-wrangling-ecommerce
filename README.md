@@ -1,1 +1,1 @@
-# data-wrangling-ecommerce
+# Data Wrangling & SQL Project : E-Commerce Product Analysis
